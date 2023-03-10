@@ -1,0 +1,1 @@
+{"version":3,"sources":["recipe.js"],"names":["Recipedetails"],"mappings":";;AAAA,IAAMA,aAAa,GAAC,SAAdA,aAAc,GAAI,CAEvB,CAFD","sourcesContent":["const Recipedetails=()=>{\r\n    \r\n}"],"file":"recipe.dev.js"}

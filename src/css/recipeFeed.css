@@ -1,0 +1,48 @@
+.main-container{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.search-form{
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.searchBar{
+    width: 50%;
+    border: none;
+    padding: 10px;
+}
+.search-Btn{
+    margin-left: 20px;
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightcoral;
+    color: white;
+}
+.recipes{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px grey;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.title{
+    color: black;
+    font-size: 30px;
+}
+.recipeBox{
+    border-radius: 20px;
+}
+.addRecipe{
+    margin-left: 20px;
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightcoral;
+    color: white;  
+}

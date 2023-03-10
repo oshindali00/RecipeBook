@@ -1,0 +1,1 @@
+{"version":3,"sources":["recipeFeed.js"],"names":["Recipe","console","log"],"mappings":";;;;;;;AAAA,IAAMA,MAAM,GAAC,SAAPA,MAAO,GAAI;AACbC,EAAAA,OAAO,CAACC,GAAR,CAAY,UAAZ;AACH,CAFD;;eAGeF,M","sourcesContent":["const Recipe=()=>{\r\n    console.log(\"helllllo\");\r\n}\r\nexport default Recipe;"],"file":"recipeFeed.dev.js"}
